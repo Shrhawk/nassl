@@ -21,7 +21,7 @@ TLSV1_2 = 5
 
 
 # SSL mode constants
-SSL_MODE_SEND_FALLBACK_SCSV =       0x00000080L
+SSL_MODE_SEND_FALLBACK_SCSV = 0x00000080L
 
 
 # Certificate and private key formats
